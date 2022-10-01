@@ -18,7 +18,7 @@ server = app.server
 """
 Load data.
 """
-db_name = "demo_no_label.csv"
+db_name = "demo.csv"
 df = pd.read_csv(db_name, sep=";")
 # creates an auxiliar column to get original index when filtering
 df["original_idx"] = range(len(df))
