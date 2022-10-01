@@ -23,7 +23,7 @@ Install required libs:
 - `text`: corresponding document text;
 - `label` (optional): corresponding label of each document.
 
-IMG
+![](doc/data.png)
 
 # Interactive labeling
 
