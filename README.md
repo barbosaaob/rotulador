@@ -37,7 +37,7 @@ Starting the app:
 
 ![](doc/create-label.gif)
 
-## Visualizing each document content
+## Visualizing document content
 
 Mouse hover or click:
 
@@ -55,7 +55,9 @@ Mouse hover or click:
 
 ![](doc/keyword-filter.gif)
 
-## Saving the 
+## Saving the labeled dataset
+
+![](doc/save.gif)
 
 # TODO
 
